@@ -14,3 +14,9 @@ It has multiple levels, and a save option so players can pick up where they left
 Initially it was a project for an object orientated class, but I have sience then expanded on it.
 
 Written in Java, and run in eclipse, it should work on any machine that have a JDK.
+
+-------------
+
+There are still some bugs and layout issues. 
+Some null pointer exceptions are thrown and I haven't had the time to pin them down yet.
+Will get to soon.
